@@ -1,0 +1,19 @@
+{
+  "name": "socker_trends_posts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "m_Posts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^4.2.1",
+    "express": "^4.17.3",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.8",
+    "socket.io": "^4.4.1"
+  }
+}
